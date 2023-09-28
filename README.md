@@ -1,2 +1,2 @@
 # ObjectOrientedProgramming
-[Patika.dev](https://www.patika.dev) sitesindeki [Java ile Backend Web Development Patikası/ Object Oriented Programming](https://app.patika.dev/moduller/oop) modülünde bulunan ödevleri yaptığım repo.
+The repo where I do the assignments from module  [Backend Web Development Path with Java/ Object Oriented Programming](https://app.patika.dev/moduller/oop) on [Patika.dev](https://www.patika.dev).
